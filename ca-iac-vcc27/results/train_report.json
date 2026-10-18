@@ -1,0 +1,21 @@
+{
+  "n_train": 3348,
+  "cv": [
+    {
+      "mae_model": 92.30627648575846,
+      "mae_reactive": 71.84874306319898,
+      "coverage_model": 0.7084826762246117,
+      "coverage_reactive": 0.5866188769414575
+    },
+    {
+      "mae_model": 72.24010485203313,
+      "mae_reactive": 49.898708372639604,
+      "coverage_model": 0.9253285543608124,
+      "coverage_reactive": 0.5967741935483871
+    }
+  ],
+  "train_files": [
+    "telemetry_seed101.jsonl",
+    "telemetry_seed102.jsonl"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "replica_agreement": 1.0,
+  "n": 540,
+  "variants": {
+    "edge-first, headroom 0.2 (deployed)": {
+      "slo": 0.837037037037037,
+      "iot_ingest": 0.7944444444444444,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9
+    },
+    "edge-first, headroom 0.0": {
+      "slo": 0.837037037037037,
+      "iot_ingest": 0.7944444444444444,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9
+    },
+    "edge-first, headroom 0.4": {
+      "slo": 0.837037037037037,
+      "iot_ingest": 0.7944444444444444,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9
+    },
+    "edge-first, 25% budget margin": {
+      "slo": 0.8407407407407408,
+      "iot_ingest": 0.7888888888888889,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9166666666666666
+    },
+    "min-latency, headroom 0.2": {
+      "slo": 0.8407407407407408,
+      "iot_ingest": 0.7888888888888889,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9166666666666666
+    },
+    "min-latency, 25% budget margin": {
+      "slo": 0.8407407407407408,
+      "iot_ingest": 0.7888888888888889,
+      "regional_compliance": 0.8166666666666667,
+      "batch_ml": 0.9166666666666666
+    }
+  },
+  "reactive_failures_oracle_feasible": {
+    "optimistic_estimate": 35,
+    "no_tier_estimated_feasible": 22
+  }
+}

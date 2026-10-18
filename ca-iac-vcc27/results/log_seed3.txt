@@ -1,0 +1,100 @@
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1434' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1713' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1728' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1743' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1758' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1783' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1802' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1824' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-1860' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-2109' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+seed 3 instant 1/30 t=35s
+seed 3 instant 2/30 t=54s
+Task was destroyed but it is pending!
+task: <Task pending name='Task-5844' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+seed 3 instant 3/30 t=68s
+seed 3 instant 4/30 t=84s
+Task was destroyed but it is pending!
+task: <Task pending name='Task-8967' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9243' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9264' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9354' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9568' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9606' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-9903' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-10006' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+seed 3 instant 5/30 t=98s
+seed 3 instant 6/30 t=117s
+seed 3 instant 7/30 t=131s
+seed 3 instant 8/30 t=145s
+seed 3 instant 9/30 t=160s
+seed 3 instant 10/30 t=174s
+seed 3 instant 11/30 t=188s
+seed 3 instant 12/30 t=202s
+seed 3 instant 13/30 t=218s
+seed 3 instant 14/30 t=236s
+seed 3 instant 15/30 t=250s
+seed 3 instant 16/30 t=264s
+seed 3 instant 17/30 t=278s
+seed 3 instant 18/30 t=292s
+seed 3 instant 19/30 t=308s
+seed 3 instant 20/30 t=326s
+seed 3 instant 21/30 t=340s
+seed 3 instant 22/30 t=354s
+seed 3 instant 23/30 t=368s
+seed 3 instant 24/30 t=383s
+seed 3 instant 25/30 t=397s
+seed 3 instant 26/30 t=411s
+seed 3 instant 27/30 t=425s
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54141' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54156' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54171' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54192' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54222' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54549' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+seed 3 instant 28/30 t=439s
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54755' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54765' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54778' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54795' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54810' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54831' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54867' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54909' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-54959' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+Task was destroyed but it is pending!
+task: <Task pending name='Task-55177' coro=<LinkProxy.handle() done, defined at /home/claude/caiac/testbed/testbed.py:98> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[StreamReaderProtocol.connection_made.<locals>.callback() at /usr/lib/python3.13/asyncio/streams.py:242]>
+seed 3 instant 29/30 t=457s
+seed 3 instant 30/30 t=474s
